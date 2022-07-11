@@ -5,8 +5,9 @@
 ![](img/on-demand.png)  
 ## Reserved Instances
 ![](img/reserved-instances.png)  
+* Covertible Reserved Instance is also known as **Compute Savings Plan**  
 ## Savings Plan
-![](img/savings-plan.png)  
+![](img/savings-plan.png)
 ## EC2 Spot Instances
 ![](img/spot-instances.png)  
 * Biggest Discount
